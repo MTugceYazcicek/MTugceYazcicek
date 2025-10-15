@@ -14,7 +14,8 @@ My background is in **Biomedical Engineering**, and my research focuses on  **De
 - Artificial Intelligence  
 - Machine Learning  
 - Cell and Tissue Engineering  
-- Biosensors 
+- Biosensors
+- Database MSSQL
 
 
 ---
