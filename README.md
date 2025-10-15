@@ -26,5 +26,11 @@ My background is in **Biomedical Engineering**, and my research focuses on  **De
 
 Some additional libraries I frequently use:  
 `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `scikit-learn` • `Bio.PDB` • `py3Dmol` • `torch_geometric` • `NetworkX`
+---
+## 📊 GitHub İstatistiklerim
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MTugceYazcicek&show_icons=true&theme=radical&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MTugceYazcicek&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MTugceYazcicek&theme=radical&hide_border=true)
