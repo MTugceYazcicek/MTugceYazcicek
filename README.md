@@ -34,7 +34,7 @@ Some additional libraries I frequently use:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MTugceYazcicek&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MTugceYazcicek&theme=radical&hide_border=true)
-
+---
 ## 📈 Katkı Grafiğim
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MTugceYazcicek&theme=react-dark)
