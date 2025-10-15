@@ -42,7 +42,9 @@ My background is in **Biomedical Engineering**, and my research focuses on  **De
   </tr>
   <tr>
     <td colspan="2">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MTugceYazcicek&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true"/>
+     <div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MTugceYazcicek&theme=default&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000"/>
+</div>
     </td>
   </tr>
 </table>
